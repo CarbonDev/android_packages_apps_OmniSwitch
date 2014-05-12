@@ -1,5 +1,0 @@
-[gerrit]
-host=review.carbonrom.org
-port=29418
-project=android_packages_apps_OmniSwitch.git
-defaultbranch=kk
