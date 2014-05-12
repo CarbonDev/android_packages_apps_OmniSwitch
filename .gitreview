@@ -1,5 +1,5 @@
 [gerrit]
-host=review.pac-rom.com
+host=review.carbonrom.org
 port=29418
 project=android_packages_apps_OmniSwitch.git
-defaultbranch=pac-4.4
+defaultbranch=kk
